@@ -658,20 +658,12 @@ video {
   height: 82vh;
 }
 
-.h-\[94vh\] {
-  height: 94vh;
-}
-
 .h-full {
   height: 100%;
 }
 
 .h-screen {
   height: 100vh;
-}
-
-.h-\[92vh\] {
-  height: 92vh;
 }
 
 .w-10 {
@@ -734,10 +726,6 @@ video {
   width: 100%;
 }
 
-.w-\[80\%\] {
-  width: 80%;
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -782,10 +770,6 @@ video {
 
 .overflow-hidden {
   overflow: hidden;
-}
-
-.overflow-y-hidden {
-  overflow-y: hidden;
 }
 
 .overflow-y-scroll {
